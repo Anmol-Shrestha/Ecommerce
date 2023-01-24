@@ -3,7 +3,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import FeaturedData from "../Data/FeaturedData";
 import CatData from "../Data/CatData";
-import { Link } from "react-router-dom";
+import { Link} from "react-router-dom";
+
 export default function Home() {
   return (
     <>

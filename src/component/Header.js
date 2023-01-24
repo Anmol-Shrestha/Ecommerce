@@ -133,11 +133,11 @@ export default function Header() {
       </nav>
 
       
-
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route exact path="/" element={<Home/>} />
         <Route path="/Details/:id/:title" element={<Details />} />
-      </Routes>
+    </Routes>
+      
     </>
   );
 }
