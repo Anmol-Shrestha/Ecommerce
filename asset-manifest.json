@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.6dea7d05.css",
+    "main.js": "/Ecommerce/static/js/main.5da5dcb0.js",
+    "static/js/787.dcc73137.chunk.js": "/Ecommerce/static/js/787.dcc73137.chunk.js",
+    "index.html": "/Ecommerce/index.html",
+    "static/media/Lg.webp": "/Ecommerce/static/media/Lg.e783533c66375926dd11.webp",
+    "main.6dea7d05.css.map": "/Ecommerce/static/css/main.6dea7d05.css.map",
+    "main.5da5dcb0.js.map": "/Ecommerce/static/js/main.5da5dcb0.js.map",
+    "787.dcc73137.chunk.js.map": "/Ecommerce/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dea7d05.css",
+    "static/js/main.5da5dcb0.js"
+  ]
+}
